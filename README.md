@@ -1,2 +1,2 @@
 # cloud_testing
-Repository for Cloud Testing
+GIT Repository for Cloud Testing
