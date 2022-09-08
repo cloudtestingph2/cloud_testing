@@ -1,4 +1,4 @@
-create table quote1 ( col1 numnber,col2 number)
+create table quote1 ( col1 number,col2 number)
 /
 insert into quote1 values (10,10)
 /
