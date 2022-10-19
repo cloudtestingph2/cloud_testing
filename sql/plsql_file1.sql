@@ -12,7 +12,7 @@ end loop
 /
 end
 /
-select * from tab_plsql
-order by col1
+/
+select * from tab_plsql order by col1
 /
 
