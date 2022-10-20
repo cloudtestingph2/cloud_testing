@@ -1,4 +1,5 @@
 create table tab_plsql ( col1 number, col2 number)
+/
 begin
  for i in 1..5
  loop
