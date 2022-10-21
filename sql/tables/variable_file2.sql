@@ -1,6 +1,4 @@
-declare
-var1 number :=10;
-begin
- dbms_output.put_line ('Variable value is '|| var1);
-end;
+define var1 =10
+/
+create table vartab(col1 number, col2 number)
 /
