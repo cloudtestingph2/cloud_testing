@@ -1,1 +1,0 @@
-Test file uplaoded to sub-folder using dbms_cloud_repo API
