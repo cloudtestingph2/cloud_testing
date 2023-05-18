@@ -1,0 +1,8 @@
+--
+-- Table "T1"
+--
+CREATE TABLE "O'MCusr1--"."T1" 
+   (	"C1" NUMBER, 
+	"C2" NUMBER
+   )  DEFAULT COLLATION "USING_NLS_COMP"
+/
