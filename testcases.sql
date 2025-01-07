@@ -1,2 +1,2 @@
-delete from t1 where col1 = 10
+create table t1 (col1 number, col2 number)
 /
