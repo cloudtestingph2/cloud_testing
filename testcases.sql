@@ -1,2 +1,2 @@
-insert into t1 values (10, 10)
-/
+insert into t1 values (11, 11)
+;
