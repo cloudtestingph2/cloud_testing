@@ -1,2 +1,2 @@
-insert into t1 values (11, 11)
+delete from t1 where col1 = 10
 ;
